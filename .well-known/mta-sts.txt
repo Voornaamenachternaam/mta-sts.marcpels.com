@@ -1,6 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mx.zoho.eu
-mx: mx2.zoho.eu
-mx: mx3.zoho.eu
+mx: mail.marcpels.com
 max_age: 604800
